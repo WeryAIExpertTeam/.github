@@ -3,7 +3,8 @@
 We build AI tools for creative work and small, practical tools for the browser.
 
 - [Wery — your AI expert team for creative work](https://www.wery.ai/?utm_source=github): image, video, music and writing tools in one workspace.
-- [WeryAI online image tools](https://www.weryai.com/?utm_source=github): background removal, upscaling and other image workflows.
+- [Zeny — design and image workflows](https://www.wery.ai/en/@Zeny-Design-AI-Expert-Workspace/ai-background-remover?utm_source=github): background removal and visual editing.
+- [Vlo — video workflows](https://www.wery.ai/en/@Vlo-Video-AI-Expert-Workspace/seedance-2-5?utm_source=github): create video from briefs and visual references with Seedance.
 
 ## Open source
 
